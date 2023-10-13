@@ -8,3 +8,9 @@ body {
   font-family: Verdana;
   background-image: url(/SMALBG.png);
 }
+   h1 {
+   color: White;
+}
+   p {
+   color: White;
+}
